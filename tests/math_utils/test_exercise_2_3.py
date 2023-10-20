@@ -19,4 +19,3 @@ def test_isprime(value: Literal[1, 2, 3, 4, 47, 100], prime: bool):
 
     assert isprime(value) == prime, "Incorrect return value from isprime"
 
-
