@@ -1,5 +1,5 @@
 
-from Exercise2.tests import isprime
+from math_utils.primes import isprime
 
 
 def test_import():
